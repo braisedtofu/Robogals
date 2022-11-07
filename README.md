@@ -1,2 +1,0 @@
-# Robogals
-React App
