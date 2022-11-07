@@ -1,0 +1,34 @@
+.Typist {
+     color:white; 
+     position: absolute;
+     font-size: 70px; 
+     right: 60%;
+     left: 15%;
+     top: 55%;
+     width: 60%; 
+     font-family:"USB";
+    }
+
+  .Typist .Cursor--blinking {
+    color: white;
+
+  }
+  
+.frontpage_image {
+  /* Set rules to fill background */
+	background: url("/public/assets/whitelogo.png"), url("/public/assets/SED_workshop_hue.png");
+  /* Set up proportionate scaling */
+  height: 100%;
+  background-position: 4% 7%, center;
+  background-repeat: no-repeat, no-repeat;
+  background-size:18vh, cover;
+  position: relative; 
+  opacity: 1, 0.7; 
+  }
+
+.frontpage{
+  height:100vh; 
+  width: 100vw; 
+}
+
+
